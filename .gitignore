@@ -35,7 +35,3 @@ build/
 ### ENV ###
 
 .env
-
-Movie.java
-MovieController.java
-Review.java
