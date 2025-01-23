@@ -19,6 +19,10 @@ public class Review {
         return id;
     }
 
+    public Review(String body) {
+        this.body = body;
+    }
+
     public void setId(ObjectId id) {
         this.id = id;
     }
